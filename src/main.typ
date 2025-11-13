@@ -14,3 +14,5 @@
   index-terms: ("充电桩", "电源柜", "数学模型", "分体桩"),
   figure-supplement: [Fig.],
 )
+
+#include "拓扑介绍.typ"
