@@ -1,4 +1,3 @@
-# 在Windows上设置shell
 set shell := ["powershell", "-c"]
 
 # 生成PDF文件
